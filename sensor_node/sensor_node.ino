@@ -88,6 +88,9 @@
  *   - Bluefruit library & examples:    https://github.com/adafruit/Adafruit_nRF52_Arduino
  *   - BLE Heart Rate Service spec:     Bluetooth SIG, HRS 1.0 (0x180D/0x2A37)
  *
+ *  AI disclosure: parts of this code were written with the help of generative
+ *  AI, then reviewed and tested by the team.
+ *
  *  This is a wellness/situational-awareness tool, not a medical device
  *  (PROJECT.md §1). Not for clinical use.
  * ============================================================================
